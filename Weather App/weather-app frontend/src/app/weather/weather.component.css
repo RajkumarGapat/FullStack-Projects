@@ -1,0 +1,9 @@
+.weather {
+  margin: 20px auto;
+  max-width: 500px;
+  text-align: left;
+}
+
+h2 {
+  color: #007bff;
+}
